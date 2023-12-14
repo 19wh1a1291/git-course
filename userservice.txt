@@ -1,2 +1,4 @@
 this is servie file
 process the data
+
+cretae an avatar fir user
